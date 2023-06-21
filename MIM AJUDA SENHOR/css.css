@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+#nav-content
+{
+    background-color: rgb(22, 22, 73);
+}
+#ul-content
+{
+font-family: 'Montserrat', sans-serif;
+list-style: none;
+display: flex;
+width: 40%;
+margin: auto;
+}
+#li-content
+{
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px;
+    font-size: 25px;
+}
+#li-content a
+{
+    font-family: 'Montserrat', sans-serif; 
+color:#f1f1f1;
+text-decoration: none;
+}
+.img_logo
+{
+    width: 100px;
+    float: left;
+    padding-top: 10px;
+}
+.about-image
+{
+    width: 400px; 
+    height: 500px;
+    border-radius: 5px; 
+    box-shadow: outset 25px gray;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 250px;
+    float: left;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h4
+{
+    font-family: 'Montserrat', sans-serif;
+}
+p
+{
+    font-family: 'Montserrat', sans-serif;
+}
+#aoooopotencia
+{
+    width: 700px; 
+    height: 500px;
+    border-radius: 5px; 
+    box-shadow: outset 25px gray;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 250px;
+    float: left; 
+}
